@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let tomb = [];
+        let tomb2 = []
+        let tomb3 = []
+        let tomb4 = 0
+        let db2 = 0;
+        let szam2 = 0;
+        while (szam2 < 100) {
+        let roll = Math.floor(Math.random() * 200) + -100;
+        szam2++;
+        tomb.push(roll)
+         }
+         console.log(tomb)
+
+         //1
+         for(let db of tomb) {
+           if (db % 10 === 0) {tomb4+db; db2++;}
+            }
+            let asd = tomb4/db2
+            console.log(asd)
+         //2
+         //3
+         for(let db of tomb) {
+           if (db % 5 === 0) {tomb2.push(db)}
+            }
+        let eredmeny = Math.min(...tomb2)
+        console.log(eredmeny)   
+        //4
+        for(let db of tomb) {
+            let szam = Math.pow(db, 2);
+            let szam1 = szam / 5;
+            if (db == szam1) {console.log(db)} 
+        }
+        //5
+        for(let db of tomb) {
+           if (db % 9 === 0 && db % 7 !== 0) {tomb2.push(tomb2)}
+            }
+        console.log(tomb2)  
+    </script>
+</body>
+</html>

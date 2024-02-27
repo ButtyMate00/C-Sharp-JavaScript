@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        console.log(typeof(a));
+    </script>
+    <script>
+//        let kezd = 10;
+//        let db = 20
+//        console.log(Math.floor(Math.random()*db)+kezd);
+
+//        let a = prompt("Kerek egy nevet");
+//         console.log(`Üdvözöllek ${a}!`);
+//        let b = parseInt(prompt("A oldal"));
+//        let c = parseInt(prompt("B oldal"));
+//        console.log(`Kerület: ${(b + c) *2} Terület: ${b*c}!`);
+ 
+//        let kezd = 1;
+//        let db = 90
+//        console.log(Math.floor(Math.random()*db)+kezd);
+//          let ora = parseInt(prompt("Óra:"));
+//          let perc = parseInt(prompt("Perc:"));
+//          let sec = parseInt(prompt("Sec:"));
+//          console.log(ora* 3600 + perc * 60 + sec)
+
+//            let veletlen = Math.random();
+//            console.log(Math.round(veletlen*100)/100);
+
+            let a = 5
+            if (a > 0) {console.log('pozitiv');} 
+            else if (a == 0) {console.log('nulla')} 
+            else {console.log('negativ')}
+
+            let nap = 4;
+            let napnev = '';
+            switch (nap) {
+                case 1:
+                    napnev = 'Hétfő';
+                    break;
+                case 2:
+                    napnev = 'Kedd';
+                    break;  
+                case 3:
+                    napnev = 'Szerda';
+                    break;
+                case 4:
+                    napnev = 'Csütörtök';
+                    break;  
+                case 5:
+                    napnev = 'Péntek';
+                    break;    
+                case 6:
+                    napnev = 'Szombat';
+                    break;  
+                case 7:
+                    napnev = 'Vasárnap';
+                    break;  
+                default:
+                    napnev = 'Ismeretlen';
+                    break;  
+            }
+            console.log(napnev)
+
+//            let asd = (Math.floor(Math.random()*2)+1)
+//            let ftf = prompt("fej(1) vagy iras(2)");
+//            if (asd == ftf) {console.log('eltalaltad')}
+//            if (asd != ftf){console.log("nem talalt")}
+//            console.log(asd);
+//          let dobott = dobas == 0 ? 'fej' : 'iras';
+
+//            let egyes = prompt("Kordináta első fele");
+//            let kettes = prompt("Kordináta második fele");
+
+//            if (egyes < 0 && kettes > 0) {console.log("2. negyed")}
+//            if (egyes > 0 && kettes < 0) {console.log("3. negyed")}
+//            if (egyes > 0 && kettes > 0) {console.log("1. negyed")}
+//            if (egyes < 0 && kettes < 0) {console.log("4. negyed")}
+
+            for (let i = 1; i <= 5; i++){
+                console.log(i);
+            }
+
+            let person = {name: 'pisti', age: 40, email:"pisti@"}
+            for (key in person) {console.log(key + " = " + person[key])}
+
+            let cars = ['BMW', 'VolgsWagen', 'Trabant']
+            for (car of cars){console.log(car)}
+
+            let i = 1
+            while (i <=5) {
+                console.log(i);
+                 i++
+                }
+
+            do {
+                console.log(i)
+                i++;
+
+            }   while(i <= 5);
+
+
+            i = 0
+            while (i < 10) {
+                i++
+                if (i % 2 == 1) {
+                    continue;
+                }
+                console.log(i)
+            }
+            console.log("---------------")
+            let c = 0
+            let szam = prompt("szam");
+            for (let i = 1; i <= szam; i++){
+                c += i;
+            }
+            console.log(c)
+            </script>
+
+</body>
+</html>
