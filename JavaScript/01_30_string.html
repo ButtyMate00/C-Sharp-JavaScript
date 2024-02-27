@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let s = '\'\b\t\r\nkarakterlanc\'';
+        
+        for(let i = 0; i < s.length; i++){
+            console.log(s[i])
+        }
+
+        for(b of s){
+            console.log(b);
+        }
+
+        console.log(s)
+        console.log(s.length)
+
+        let s1 = 'Tanulj'
+        let s2 = 'JavaScript-et!'
+        let s3 = s1.concat(' ', s2)
+        console.log(s3)
+        let s4 = "JavaScript"
+        console.log(s4.charAt(4))
+        console.log(s.charCodeAt(4))
+        
+        let s5 = "JavaScript"
+        console.log(s5.endsWith('t'))
+        console.log(s5.startsWith('Java'))
+
+        console.log(String.fromCharCode(65, 108, 109, 97))
+
+        let a = 'Az alma nem esik messze a fájátol'
+        console.log(s.includes("alma"))
+        console.log(s.indexOf('a', 7))
+        console.log(s.lastIndexOf('a', 7))
+        let d = 'la'
+        //console.log(s.padend(5, '0'))
+        console.log('*'. repeat(10))
+        let asd = 'A kedvencem a programozás'
+        console.log(asd)
+        uj_szoveg = asd.replaceAll('kedvencem', 'A')
+        console.log(asd)
+
+        let s21 = 'JavaScript'
+        console.log(s21.slice(3,6 ))
+        console.log(s21.slice(4 ))
+        console.log(s21.slice(-6 ))
+        console.log(s21.slice(-7, -4 ))
+
+        console.log(s21.substring(2, 7))
+        console.log(s21.substr(3, 3))
+
+        let s22 = 'A JavaScript egy szkriptnyelv'
+        let szavak = s22.split(" ")
+        console.log(szavak)
+
+        console.log('JavaScript'.toUpperCase())
+        console.log('asd asd asd'.trim())
+
+        let nev = "Butty Máté"
+        console.log(`udv ${nev.split(" ")[1]}`);
+        let db = 0;
+        for(b of nev.toLowerCase()){
+            if(b == 't')
+            {
+                db++;
+            }
+        }
+        console.log(`${db} a van benne`)
+
+        function poli(str) {
+         const reversed = str.split("").reverse().join("");
+         return str === reversed;
+            }
+
+        const input = prompt("Kérlek, írj be egy mondatot:");
+        const result = poli(input);
+
+        if (result) {
+        console.log("A megadott mondat visszafelé is ugyanazt jelenti!");
+        } else {
+        console.log("A megadott mondat nem ugyanazt jelenti visszafelé!");
+        }
+
+
+</script>
+</body>
+</html>

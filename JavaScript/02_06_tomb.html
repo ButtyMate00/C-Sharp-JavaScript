@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let nyelvek = [];
+        nyelvek[0] = "html",
+        nyelvek[1] = "css"
+
+        let nyelvek1 = new Array("HTML", "CSS", "JS")
+
+        nyelvek[1] = "PHP"
+
+        console.log(nyelvek);
+        nyelvek.push("PHP")
+        console.log(nyelvek);
+        console.log(nyelvek.length)
+        nyelvek.pop();
+        console.log(nyelvek)
+        delete nyelvek[1]
+        console.log(nyelvek)
+        console.log(nyelvek[1]);
+
+        let tomb = new Array();
+        tomb["a"] = 100;
+        console.log(tomb['a'])
+        console.log(tomb.a)
+
+        let tomb1 = [
+            [1, 3, 6, 2],
+            [6, 8, 9, 3],
+            [7, 4, 6, 1]
+        ];
+        console.log(tomb1[1][1])
+
+        let matrix = "";
+        for(let sor of tomb) {
+            for(let oszlop of sor) {
+                matrix += oszlop + " ";
+            }
+            matrix += '\n';        
+        }
+        console.log(matrix);
+
+        let autok = ["Mercedes", "BMW", "Audi", "Volvo", "Ranault"];
+        console.log(autok.at(2))
+        console.log(autok.at(-3))
+
+        let buszok = ["Setra", "Neoplan", "Man"]
+        let traktor = "JhonDeer"
+        let jarmuvek = autok.concat(buszok, traktor)
+        console.log(jarmuvek)
+
+        let autok2 = ["Mercedes", "BMW", "Audi", "Volvo", "Ranault"];
+        autok2.fill("Trabant")
+        console.log(autok2)
+        autok2.fill('lada', 2, 4);
+        console.log(autok2)
+
+        let szoveg = "ABCDEFG"
+        let betuk = Array.from(szoveg);
+        console.log(betuk)
+
+        console.log(autok.join(' - '))
+
+        let szamok = [1, 12, 3, 4, 5, 6, 7];
+        szamok.reverse()
+        console.log(szamok)
+
+        let autok3 = ["Mercedes", "BMW", "Audi", "Volvo", "Ranault", "BMW"];
+        console.log(autok.indexOf("BMW"))
+        console.log(autok.indexOf("BMW", 2))
+        console.log(autok.lastIndexOf("BMW" , 2))
+
+        let autok4 = ["Mercedes", "BMW", "Audi", "Volvo", "Ranault"];
+        console.log(autok4.includes('BMW'))
+        console.log(autok4.slice(-3, -1))
+        autok4.sort()
+        console.log(autok4)
+        szamok.sort()
+        console.log(szamok)
+        szamok.sort(function(a, b){return a - b})
+        console.log(szamok)
+        
+        let szamok1 = [1, 12, 3, 4, 5, 6, 7];
+        szamok1.push(2)
+        szamok1.push(45, 10)
+        console.log(szamok1)
+        console.log(szamok1.pop())
+        console.log(szamok1)
+        szamok1.unshift(45, 11)
+        console.log(szamok1)
+        console.log(szamok.shift())
+        console.log(szamok)
+
+        let kimenet = " ";
+        let szam = [1, 12, 3, 4, 5, 6, 7];
+        szam.forEach(duplaz)
+        console.log(kimenet)
+        console.log(szam.every(nagyobb))
+        console.log(szam.some(nagyobb))
+        console.log(szam.find(nagyobb))
+        console.log(szam.findIndex(nagyobb))
+        console.log(szam.filter(nagyobb))
+        function nagyobb(szam){
+            return szam > 6;
+        }
+        function duplaz(ertek, index){
+            kimenet += index + ": " + ertek * 2 + "\n"
+        }
+        function duplaz1(ertek, index){
+            return ertek * 2 
+        }
+
+        let num = [1, 12, 3, 4, 5, 6, 7];
+        let gyok = num.map(Math.sqrt)
+        console.log(gyok)
+        console.log(num.map(duplaz1))
+
+        // 100 dobas 6 odalu atlag hany atlag fel dobas
+        let dobasok = []
+        let nagyobb1 = []
+        let szam2 = 1;
+        let sum = 0;
+        while (szam2 < 100) {
+        let roll = Math.floor(Math.random() * 6) + 1;
+        szam2++;
+        dobasok.push(roll)
+         }
+         console.log(dobasok)
+         for(let db of dobasok) {
+           sum += db
+            }
+        console.log(sum/100)
+        for(let db of dobasok) {
+           if (db > sum/100) {nagyobb1.push(db)}
+        }    
+        console.log(nagyobb1) 
+        
+        // 2 szam egyik egy tizes szam renszerbeli 
+
+        const szam5 = 255;
+        const alap = 16;
+        const szamjegyek = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
+        let sz = szam5 
+        let stack = []
+
+        do {
+            stack.push(sz % alap)
+            sz = Math.floor(sz / alap)
+        } while(sz != 0) 
+
+        console.log(stack)
+        let uj_szam = '';
+
+        while(stack.length != 0){
+            uj_szam += szamjegyek[stack.pop()];
+
+        }
+        console.log(`${szam} = ${uj_szam} (${alap})`)
+
+        
+    </script>
+</body>
+</html>

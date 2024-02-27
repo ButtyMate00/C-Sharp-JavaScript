@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    let szam = 0;
+    let dobas = 1;
+    let rolls = [];
+
+    while (szam < 3) {
+    let roll = Math.floor(Math.random() * 6) + 1;
+    console.log(`dobás: ${roll}`);
+    if (roll % 2 === 0 && dobas % 2 === 0) {
+        szam++;
+        rolls.push(roll);
+    } else {
+        szam = 0;
+        rolls = [];
+    }
+    dobas = roll;
+    }
+
+console.log(`dobások: ${rolls.join(", ")}`);
+    </script>
+</body>
+</html>
