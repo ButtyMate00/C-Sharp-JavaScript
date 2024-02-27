@@ -1,0 +1,8 @@
+C:\Users\buttymate\source\repos\BM-OOP-kutya\BM-OOP-kutya\bin\Debug\BM-OOP-kutya.exe.config
+C:\Users\buttymate\source\repos\BM-OOP-kutya\BM-OOP-kutya\bin\Debug\BM-OOP-kutya.exe
+C:\Users\buttymate\source\repos\BM-OOP-kutya\BM-OOP-kutya\bin\Debug\BM-OOP-kutya.pdb
+C:\Users\buttymate\source\repos\BM-OOP-kutya\BM-OOP-kutya\obj\Debug\BM-OOP-kutya.csproj.AssemblyReference.cache
+C:\Users\buttymate\source\repos\BM-OOP-kutya\BM-OOP-kutya\obj\Debug\BM-OOP-kutya.csproj.SuggestedBindingRedirects.cache
+C:\Users\buttymate\source\repos\BM-OOP-kutya\BM-OOP-kutya\obj\Debug\BM-OOP-kutya.csproj.CoreCompileInputs.cache
+C:\Users\buttymate\source\repos\BM-OOP-kutya\BM-OOP-kutya\obj\Debug\BM-OOP-kutya.exe
+C:\Users\buttymate\source\repos\BM-OOP-kutya\BM-OOP-kutya\obj\Debug\BM-OOP-kutya.pdb

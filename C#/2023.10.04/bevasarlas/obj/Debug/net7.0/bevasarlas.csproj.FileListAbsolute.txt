@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\bin\Debug\net7.0\bevasarlas.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\bin\Debug\net7.0\bevasarlas.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\bin\Debug\net7.0\bevasarlas.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\bin\Debug\net7.0\bevasarlas.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\bin\Debug\net7.0\bevasarlas.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\bevasarlas.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\bevasarlas.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\bevasarlas.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\bevasarlas.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\bevasarlas.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\bevasarlas.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\refint\bevasarlas.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\bevasarlas.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\bevasarlas.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\bevasarlas\obj\Debug\net7.0\ref\bevasarlas.dll

@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\BM-try-catch-2.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\BM-try-catch-2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\BM-try-catch-2.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\BM-try-catch-2.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\BM-try-catch-2.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\bin\Debug\net7.0\BM-try-catch-2.exe
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\bin\Debug\net7.0\BM-try-catch-2.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\bin\Debug\net7.0\BM-try-catch-2.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\bin\Debug\net7.0\BM-try-catch-2.dll
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\bin\Debug\net7.0\BM-try-catch-2.pdb
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\BM-try-catch-2.dll
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\refint\BM-try-catch-2.dll
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\BM-try-catch-2.pdb
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\BM-try-catch-2.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch-2\obj\Debug\net7.0\ref\BM-try-catch-2.dll

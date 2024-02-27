@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\bin\Debug\net7.0\BM_muvelt.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\bin\Debug\net7.0\BM_muvelt.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\bin\Debug\net7.0\BM_muvelt.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\bin\Debug\net7.0\BM_muvelt.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\bin\Debug\net7.0\BM_muvelt.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\BM_muvelt.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\BM_muvelt.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\BM_muvelt.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\BM_muvelt.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\BM_muvelt.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\BM_muvelt.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\refint\BM_muvelt.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\BM_muvelt.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\BM_muvelt.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM_muvelt\BM_muvelt\obj\Debug\net7.0\ref\BM_muvelt.dll

@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\bin\Debug\net7.0\try_catch.exe
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\bin\Debug\net7.0\try_catch.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\bin\Debug\net7.0\try_catch.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\bin\Debug\net7.0\try_catch.dll
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\bin\Debug\net7.0\try_catch.pdb
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\try_catch.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\try_catch.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\try_catch.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\try_catch.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\try_catch.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\try_catch.dll
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\refint\try_catch.dll
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\try_catch.pdb
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\try_catch.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\try_catch\obj\Debug\net7.0\ref\try_catch.dll

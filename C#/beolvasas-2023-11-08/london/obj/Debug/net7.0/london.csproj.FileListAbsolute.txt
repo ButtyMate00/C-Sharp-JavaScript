@@ -1,0 +1,15 @@
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\bin\Debug\net7.0\london.exe
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\bin\Debug\net7.0\london.deps.json
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\bin\Debug\net7.0\london.runtimeconfig.json
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\bin\Debug\net7.0\london.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\bin\Debug\net7.0\london.pdb
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\london.csproj.AssemblyReference.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\london.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\london.AssemblyInfoInputs.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\london.AssemblyInfo.cs
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\london.csproj.CoreCompileInputs.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\london.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\refint\london.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\london.pdb
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\london.genruntimeconfig.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\london\obj\Debug\net7.0\ref\london.dll

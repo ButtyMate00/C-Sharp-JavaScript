@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\eljaras_hyak\bin\Debug\eljaras_hyak.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\eljaras_hyak\bin\Debug\eljaras_hyak.exe
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\eljaras_hyak\bin\Debug\eljaras_hyak.pdb
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\eljaras_hyak\obj\Debug\eljaras_hyak.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\eljaras_hyak\obj\Debug\eljaras_hyak.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\eljaras_hyak\obj\Debug\eljaras_hyak.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\eljaras_hyak\obj\Debug\eljaras_hyak.exe
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\eljaras_hyak\obj\Debug\eljaras_hyak.pdb

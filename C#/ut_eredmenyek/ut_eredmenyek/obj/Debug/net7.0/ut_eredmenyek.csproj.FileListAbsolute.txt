@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\bin\Debug\net7.0\ut_eredmenyek.exe
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\bin\Debug\net7.0\ut_eredmenyek.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\bin\Debug\net7.0\ut_eredmenyek.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\bin\Debug\net7.0\ut_eredmenyek.dll
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\bin\Debug\net7.0\ut_eredmenyek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\ut_eredmenyek.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\ut_eredmenyek.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\ut_eredmenyek.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\ut_eredmenyek.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\ut_eredmenyek.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\ut_eredmenyek.dll
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\refint\ut_eredmenyek.dll
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\ut_eredmenyek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\ut_eredmenyek.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\ut_eredmenyek\ut_eredmenyek\obj\Debug\net7.0\ref\ut_eredmenyek.dll

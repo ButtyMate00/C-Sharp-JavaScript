@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\bin\Debug\net7.0\hullamvasut.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\bin\Debug\net7.0\hullamvasut.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\bin\Debug\net7.0\hullamvasut.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\bin\Debug\net7.0\hullamvasut.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\bin\Debug\net7.0\hullamvasut.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\hullamvasut.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\hullamvasut.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\hullamvasut.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\hullamvasut.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\hullamvasut.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\hullamvasut.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\refint\hullamvasut.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\hullamvasut.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\hullamvasut.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\hullamvasut\obj\Debug\net7.0\ref\hullamvasut.dll

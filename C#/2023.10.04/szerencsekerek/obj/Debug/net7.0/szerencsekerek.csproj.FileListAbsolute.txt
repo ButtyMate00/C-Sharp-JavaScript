@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\bin\Debug\net7.0\szerencsekerek.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\bin\Debug\net7.0\szerencsekerek.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\bin\Debug\net7.0\szerencsekerek.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\bin\Debug\net7.0\szerencsekerek.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\bin\Debug\net7.0\szerencsekerek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\szerencsekerek.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\szerencsekerek.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\szerencsekerek.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\szerencsekerek.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\szerencsekerek.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\szerencsekerek.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\refint\szerencsekerek.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\szerencsekerek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\szerencsekerek.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\szerencsekerek\obj\Debug\net7.0\ref\szerencsekerek.dll

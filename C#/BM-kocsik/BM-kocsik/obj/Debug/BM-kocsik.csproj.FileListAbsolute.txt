@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-kocsik\BM-kocsik\bin\Debug\BM-kocsik.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\BM-kocsik\BM-kocsik\bin\Debug\BM-kocsik.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-kocsik\BM-kocsik\bin\Debug\BM-kocsik.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-kocsik\BM-kocsik\obj\Debug\BM-kocsik.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kocsik\BM-kocsik\obj\Debug\BM-kocsik.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kocsik\BM-kocsik\obj\Debug\BM-kocsik.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kocsik\BM-kocsik\obj\Debug\BM-kocsik.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-kocsik\BM-kocsik\obj\Debug\BM-kocsik.pdb

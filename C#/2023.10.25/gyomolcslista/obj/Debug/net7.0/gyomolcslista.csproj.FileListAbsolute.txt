@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\bin\Debug\net7.0\gyomolcslista.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\bin\Debug\net7.0\gyomolcslista.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\bin\Debug\net7.0\gyomolcslista.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\bin\Debug\net7.0\gyomolcslista.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\bin\Debug\net7.0\gyomolcslista.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\gyomolcslista.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\gyomolcslista.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\gyomolcslista.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\gyomolcslista.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\gyomolcslista.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\gyomolcslista.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\refint\gyomolcslista.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\gyomolcslista.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\gyomolcslista.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\gyomolcslista\obj\Debug\net7.0\ref\gyomolcslista.dll

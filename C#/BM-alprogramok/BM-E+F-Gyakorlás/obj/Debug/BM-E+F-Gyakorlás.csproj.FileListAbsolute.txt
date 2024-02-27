@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\BM-E+F-Gyakorlás\bin\Debug\BM-E+F-Gyakorlás.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\BM-E+F-Gyakorlás\bin\Debug\BM-E+F-Gyakorlás.exe
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\BM-E+F-Gyakorlás\bin\Debug\BM-E+F-Gyakorlás.pdb
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\BM-E+F-Gyakorlás\obj\Debug\BM-E+F-Gyakorlás.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\BM-E+F-Gyakorlás\obj\Debug\BM-E+F-Gyakorlás.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\BM-E+F-Gyakorlás\obj\Debug\BM-E+F-Gyakorlás.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\BM-E+F-Gyakorlás\obj\Debug\BM-E+F-Gyakorlás.exe
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\BM-E+F-Gyakorlás\obj\Debug\BM-E+F-Gyakorlás.pdb

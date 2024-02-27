@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\függ-elj\függ-elj\bin\Debug\függ-elj.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\függ-elj\függ-elj\bin\Debug\függ-elj.exe
+H:\Asztali alkalmazások fejlesztése\C#\függ-elj\függ-elj\bin\Debug\függ-elj.pdb
+H:\Asztali alkalmazások fejlesztése\C#\függ-elj\függ-elj\obj\Debug\függ-elj.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\függ-elj\függ-elj\obj\Debug\függ-elj.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\függ-elj\függ-elj\obj\Debug\függ-elj.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\függ-elj\függ-elj\obj\Debug\függ-elj.exe
+H:\Asztali alkalmazások fejlesztése\C#\függ-elj\függ-elj\obj\Debug\függ-elj.pdb

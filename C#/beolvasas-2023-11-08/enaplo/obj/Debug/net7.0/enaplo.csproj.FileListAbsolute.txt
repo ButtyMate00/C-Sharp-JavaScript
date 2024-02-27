@@ -1,0 +1,15 @@
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\bin\Debug\net7.0\enaplo.exe
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\bin\Debug\net7.0\enaplo.deps.json
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\bin\Debug\net7.0\enaplo.runtimeconfig.json
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\bin\Debug\net7.0\enaplo.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\bin\Debug\net7.0\enaplo.pdb
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\enaplo.csproj.AssemblyReference.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\enaplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\enaplo.AssemblyInfoInputs.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\enaplo.AssemblyInfo.cs
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\enaplo.csproj.CoreCompileInputs.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\enaplo.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\refint\enaplo.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\enaplo.pdb
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\enaplo.genruntimeconfig.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\enaplo\obj\Debug\net7.0\ref\enaplo.dll

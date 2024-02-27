@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\bin\Debug\net7.0\termek.exe
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\bin\Debug\net7.0\termek.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\bin\Debug\net7.0\termek.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\bin\Debug\net7.0\termek.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\bin\Debug\net7.0\termek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\termek.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\termek.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\termek.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\termek.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\termek.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\termek.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\refint\termek.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\termek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\termek.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\termek\obj\Debug\net7.0\ref\termek.dll

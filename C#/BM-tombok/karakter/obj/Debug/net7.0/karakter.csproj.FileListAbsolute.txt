@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\bin\Debug\net7.0\karakter.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\bin\Debug\net7.0\karakter.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\bin\Debug\net7.0\karakter.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\bin\Debug\net7.0\karakter.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\bin\Debug\net7.0\karakter.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\karakter.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\karakter.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\karakter.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\karakter.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\karakter.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\karakter.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\refint\karakter.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\karakter.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\karakter.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\karakter\obj\Debug\net7.0\ref\karakter.dll

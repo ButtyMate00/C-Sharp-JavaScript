@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\bin\Debug\net7.0\epuletek.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\bin\Debug\net7.0\epuletek.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\bin\Debug\net7.0\epuletek.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\bin\Debug\net7.0\epuletek.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\bin\Debug\net7.0\epuletek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\epuletek.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\epuletek.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\epuletek.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\epuletek.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\epuletek.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\epuletek.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\refint\epuletek.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\epuletek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\epuletek.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\epuletek\obj\Debug\net7.0\ref\epuletek.dll

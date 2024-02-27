@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\bin\Debug\net7.0\BM-auto.exe
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\bin\Debug\net7.0\BM-auto.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\bin\Debug\net7.0\BM-auto.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\bin\Debug\net7.0\BM-auto.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\bin\Debug\net7.0\BM-auto.pdb
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\BM-auto.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\BM-auto.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\BM-auto.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\BM-auto.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\BM-auto.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\BM-auto.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\refint\BM-auto.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\BM-auto.pdb
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\BM-auto.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\BM-auto\obj\Debug\net7.0\ref\BM-auto.dll

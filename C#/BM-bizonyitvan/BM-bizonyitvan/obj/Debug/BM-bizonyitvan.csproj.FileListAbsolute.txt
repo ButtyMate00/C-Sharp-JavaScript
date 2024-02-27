@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-bizonyitvan\BM-bizonyitvan\bin\Debug\BM-bizonyitvan.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\BM-bizonyitvan\BM-bizonyitvan\bin\Debug\BM-bizonyitvan.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-bizonyitvan\BM-bizonyitvan\bin\Debug\BM-bizonyitvan.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-bizonyitvan\BM-bizonyitvan\obj\Debug\BM-bizonyitvan.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-bizonyitvan\BM-bizonyitvan\obj\Debug\BM-bizonyitvan.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-bizonyitvan\BM-bizonyitvan\obj\Debug\BM-bizonyitvan.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-bizonyitvan\BM-bizonyitvan\obj\Debug\BM-bizonyitvan.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-bizonyitvan\BM-bizonyitvan\obj\Debug\BM-bizonyitvan.pdb

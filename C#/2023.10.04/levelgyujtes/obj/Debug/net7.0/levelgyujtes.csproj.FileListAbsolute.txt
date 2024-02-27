@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\bin\Debug\net7.0\levelgyujtes.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\bin\Debug\net7.0\levelgyujtes.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\bin\Debug\net7.0\levelgyujtes.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\bin\Debug\net7.0\levelgyujtes.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\bin\Debug\net7.0\levelgyujtes.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\levelgyujtes.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\levelgyujtes.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\levelgyujtes.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\levelgyujtes.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\levelgyujtes.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\levelgyujtes.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\refint\levelgyujtes.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\levelgyujtes.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\levelgyujtes.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\levelgyujtes\obj\Debug\net7.0\ref\levelgyujtes.dll

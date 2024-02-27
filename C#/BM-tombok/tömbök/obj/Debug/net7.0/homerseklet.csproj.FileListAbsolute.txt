@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\bin\Debug\net7.0\homerseklet.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\bin\Debug\net7.0\homerseklet.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\bin\Debug\net7.0\homerseklet.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\bin\Debug\net7.0\homerseklet.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\bin\Debug\net7.0\homerseklet.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\homerseklet.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\homerseklet.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\homerseklet.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\homerseklet.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\homerseklet.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\homerseklet.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\refint\homerseklet.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\homerseklet.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\homerseklet.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\tömbök\obj\Debug\net7.0\ref\homerseklet.dll

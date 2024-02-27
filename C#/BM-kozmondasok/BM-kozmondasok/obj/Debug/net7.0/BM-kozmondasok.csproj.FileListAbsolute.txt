@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\bin\Debug\net7.0\BM-kozmondasok.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\bin\Debug\net7.0\BM-kozmondasok.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\bin\Debug\net7.0\BM-kozmondasok.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\bin\Debug\net7.0\BM-kozmondasok.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\bin\Debug\net7.0\BM-kozmondasok.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\BM-kozmondasok.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\BM-kozmondasok.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\BM-kozmondasok.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\BM-kozmondasok.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\BM-kozmondasok.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\BM-kozmondasok.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\refint\BM-kozmondasok.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\BM-kozmondasok.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\BM-kozmondasok.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kozmondasok\BM-kozmondasok\obj\Debug\net7.0\ref\BM-kozmondasok.dll

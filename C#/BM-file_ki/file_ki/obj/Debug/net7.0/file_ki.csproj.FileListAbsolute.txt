@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\bin\Debug\net7.0\file_ki.exe
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\bin\Debug\net7.0\file_ki.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\bin\Debug\net7.0\file_ki.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\bin\Debug\net7.0\file_ki.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\bin\Debug\net7.0\file_ki.pdb
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\file_ki.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\file_ki.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\file_ki.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\file_ki.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\file_ki.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\file_ki.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\refint\file_ki.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\file_ki.pdb
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\file_ki.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\file_ki\obj\Debug\net7.0\ref\file_ki.dll

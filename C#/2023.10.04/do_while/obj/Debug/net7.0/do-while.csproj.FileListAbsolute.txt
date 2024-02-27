@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\bin\Debug\net7.0\do-while.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\bin\Debug\net7.0\do-while.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\bin\Debug\net7.0\do-while.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\bin\Debug\net7.0\do-while.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\bin\Debug\net7.0\do-while.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\do-while.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\do-while.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\do-while.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\do-while.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\do-while.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\do-while.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\refint\do-while.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\do-while.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\do-while.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.04\2023.10.04\obj\Debug\net7.0\ref\do-while.dll

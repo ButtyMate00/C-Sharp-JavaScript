@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\bin\Debug\net7.0\atlag.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\bin\Debug\net7.0\atlag.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\bin\Debug\net7.0\atlag.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\bin\Debug\net7.0\atlag.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\bin\Debug\net7.0\atlag.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\atlag.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\atlag.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\atlag.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\atlag.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\atlag.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\atlag.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\refint\atlag.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\atlag.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\atlag.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023-09-20\atlag\obj\Debug\net7.0\ref\atlag.dll

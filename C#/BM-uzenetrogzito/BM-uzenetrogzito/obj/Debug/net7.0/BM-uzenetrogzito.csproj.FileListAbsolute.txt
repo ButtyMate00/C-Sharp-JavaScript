@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\bin\Debug\net7.0\BM-uzenetrogzito.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\bin\Debug\net7.0\BM-uzenetrogzito.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\bin\Debug\net7.0\BM-uzenetrogzito.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\bin\Debug\net7.0\BM-uzenetrogzito.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\bin\Debug\net7.0\BM-uzenetrogzito.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\BM-uzenetrogzito.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\BM-uzenetrogzito.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\BM-uzenetrogzito.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\BM-uzenetrogzito.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\BM-uzenetrogzito.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\BM-uzenetrogzito.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\refint\BM-uzenetrogzito.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\BM-uzenetrogzito.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\BM-uzenetrogzito.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-uzenetrogzito\BM-uzenetrogzito\obj\Debug\net7.0\ref\BM-uzenetrogzito.dll

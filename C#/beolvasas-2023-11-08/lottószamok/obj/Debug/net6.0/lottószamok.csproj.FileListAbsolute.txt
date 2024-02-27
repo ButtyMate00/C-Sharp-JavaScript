@@ -1,0 +1,15 @@
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\bin\Debug\net6.0\lottószamok.exe
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\bin\Debug\net6.0\lottószamok.deps.json
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\bin\Debug\net6.0\lottószamok.runtimeconfig.json
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\bin\Debug\net6.0\lottószamok.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\bin\Debug\net6.0\lottószamok.pdb
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\lottószamok.csproj.AssemblyReference.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\lottószamok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\lottószamok.AssemblyInfoInputs.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\lottószamok.AssemblyInfo.cs
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\lottószamok.csproj.CoreCompileInputs.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\lottószamok.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\refint\lottószamok.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\lottószamok.pdb
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\lottószamok.genruntimeconfig.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\lottószamok\obj\Debug\net6.0\ref\lottószamok.dll

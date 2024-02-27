@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\bin\Debug\net7.0\lista_dolgok.exe
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\bin\Debug\net7.0\lista_dolgok.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\bin\Debug\net7.0\lista_dolgok.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\bin\Debug\net7.0\lista_dolgok.dll
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\bin\Debug\net7.0\lista_dolgok.pdb
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\lista_dolgok.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\lista_dolgok.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\lista_dolgok.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\lista_dolgok.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\lista_dolgok.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\lista_dolgok.dll
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\refint\lista_dolgok.dll
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\lista_dolgok.pdb
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\lista_dolgok.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\lista_dolgok\obj\Debug\net7.0\ref\lista_dolgok.dll

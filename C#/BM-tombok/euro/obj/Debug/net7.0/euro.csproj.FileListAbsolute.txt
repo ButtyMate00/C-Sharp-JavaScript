@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\bin\Debug\net7.0\euro.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\bin\Debug\net7.0\euro.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\bin\Debug\net7.0\euro.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\bin\Debug\net7.0\euro.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\bin\Debug\net7.0\euro.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\euro.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\euro.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\euro.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\euro.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\euro.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\euro.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\refint\euro.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\euro.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\euro.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\euro\obj\Debug\net7.0\ref\euro.dll

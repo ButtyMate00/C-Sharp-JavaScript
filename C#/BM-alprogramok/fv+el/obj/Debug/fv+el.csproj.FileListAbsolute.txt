@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\fv+el\obj\Debug\fv+el.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\fv+el\obj\Debug\fv+el.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\fv+el\obj\Debug\fv+el.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\fv+el\bin\Debug\fv+el.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\fv+el\bin\Debug\fv+el.exe
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\fv+el\bin\Debug\fv+el.pdb
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\fv+el\obj\Debug\fv+el.exe
+H:\Asztali alkalmazások fejlesztése\C#\alprogramok\fv+el\obj\Debug\fv+el.pdb

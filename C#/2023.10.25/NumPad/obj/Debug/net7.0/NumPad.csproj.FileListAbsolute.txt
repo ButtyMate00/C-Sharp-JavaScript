@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\bin\Debug\net7.0\NumPad.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\bin\Debug\net7.0\NumPad.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\bin\Debug\net7.0\NumPad.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\bin\Debug\net7.0\NumPad.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\bin\Debug\net7.0\NumPad.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\NumPad.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\NumPad.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\NumPad.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\NumPad.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\NumPad.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\NumPad.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\refint\NumPad.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\NumPad.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\NumPad.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\NumPad\obj\Debug\net7.0\ref\NumPad.dll

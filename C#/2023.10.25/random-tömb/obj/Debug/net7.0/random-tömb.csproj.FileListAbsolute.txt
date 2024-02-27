@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\bin\Debug\net7.0\random-tömb.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\bin\Debug\net7.0\random-tömb.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\bin\Debug\net7.0\random-tömb.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\bin\Debug\net7.0\random-tömb.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\bin\Debug\net7.0\random-tömb.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\random-tömb.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\random-tömb.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\random-tömb.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\random-tömb.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\random-tömb.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\random-tömb.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\refint\random-tömb.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\random-tömb.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\random-tömb.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\random-tömb\obj\Debug\net7.0\ref\random-tömb.dll

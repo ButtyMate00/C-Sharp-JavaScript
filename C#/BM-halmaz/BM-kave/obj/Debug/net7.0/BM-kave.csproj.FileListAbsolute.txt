@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\bin\Debug\net7.0\BM-kave.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\bin\Debug\net7.0\BM-kave.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\bin\Debug\net7.0\BM-kave.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\bin\Debug\net7.0\BM-kave.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\bin\Debug\net7.0\BM-kave.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\BM-kave.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\BM-kave.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\BM-kave.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\BM-kave.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\BM-kave.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\BM-kave.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\refint\BM-kave.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\BM-kave.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\BM-kave.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-kave\obj\Debug\net7.0\ref\BM-kave.dll

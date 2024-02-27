@@ -1,0 +1,10 @@
+examine 92 101
+wainscot 99 70
+divide 92 74
+over 80 92
+hyena 100 104
+septum 81 91
+evolution 79 100
+dominant 86 100
+sole 88 79
+issue 98 84

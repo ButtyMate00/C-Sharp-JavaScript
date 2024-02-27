@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\bin\Debug\net7.0\A-5x7.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\bin\Debug\net7.0\A-5x7.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\bin\Debug\net7.0\A-5x7.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\bin\Debug\net7.0\A-5x7.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\bin\Debug\net7.0\A-5x7.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\A-5x7.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\A-5x7.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\A-5x7.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\A-5x7.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\A-5x7.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\A-5x7.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\refint\A-5x7.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\A-5x7.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\A-5x7.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\A-5x7\obj\Debug\net7.0\ref\A-5x7.dll

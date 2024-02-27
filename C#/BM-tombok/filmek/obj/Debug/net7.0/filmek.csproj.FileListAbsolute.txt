@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\bin\Debug\net7.0\filmek.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\bin\Debug\net7.0\filmek.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\bin\Debug\net7.0\filmek.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\bin\Debug\net7.0\filmek.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\bin\Debug\net7.0\filmek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\filmek.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\filmek.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\filmek.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\filmek.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\filmek.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\filmek.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\refint\filmek.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\filmek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\filmek.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\filmek\obj\Debug\net7.0\ref\filmek.dll

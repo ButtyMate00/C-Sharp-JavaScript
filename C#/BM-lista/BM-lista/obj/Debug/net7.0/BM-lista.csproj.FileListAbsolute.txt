@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\bin\Debug\net7.0\BM-lista.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\bin\Debug\net7.0\BM-lista.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\bin\Debug\net7.0\BM-lista.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\bin\Debug\net7.0\BM-lista.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\bin\Debug\net7.0\BM-lista.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\BM-lista.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\BM-lista.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\BM-lista.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\BM-lista.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\BM-lista.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\BM-lista.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\refint\BM-lista.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\BM-lista.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\BM-lista.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\BM-lista\obj\Debug\net7.0\ref\BM-lista.dll

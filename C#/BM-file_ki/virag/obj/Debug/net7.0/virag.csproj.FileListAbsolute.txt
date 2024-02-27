@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\bin\Debug\net7.0\virag.exe
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\bin\Debug\net7.0\virag.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\bin\Debug\net7.0\virag.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\bin\Debug\net7.0\virag.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\bin\Debug\net7.0\virag.pdb
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\virag.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\virag.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\virag.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\virag.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\virag.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\virag.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\refint\virag.dll
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\virag.pdb
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\virag.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\file_ki\virag\obj\Debug\net7.0\ref\virag.dll

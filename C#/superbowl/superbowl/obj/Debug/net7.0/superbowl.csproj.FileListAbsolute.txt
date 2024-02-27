@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\bin\Debug\net7.0\superbowl.exe
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\bin\Debug\net7.0\superbowl.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\bin\Debug\net7.0\superbowl.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\bin\Debug\net7.0\superbowl.dll
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\bin\Debug\net7.0\superbowl.pdb
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\superbowl.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\superbowl.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\superbowl.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\superbowl.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\superbowl.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\superbowl.dll
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\refint\superbowl.dll
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\superbowl.pdb
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\superbowl.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\superbowl\superbowl\obj\Debug\net7.0\ref\superbowl.dll

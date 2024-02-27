@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\bin\Debug\net7.0\jegyadás.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\bin\Debug\net7.0\jegyadás.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\bin\Debug\net7.0\jegyadás.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\bin\Debug\net7.0\jegyadás.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\bin\Debug\net7.0\jegyadás.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\jegyadás.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\jegyadás.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\jegyadás.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\jegyadás.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\jegyadás.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\jegyadás.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\refint\jegyadás.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\jegyadás.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\jegyadás.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\jegyadás\obj\Debug\net7.0\ref\jegyadás.dll

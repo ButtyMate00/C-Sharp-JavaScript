@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\bin\Debug\net7.0\autok.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\bin\Debug\net7.0\autok.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\bin\Debug\net7.0\autok.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\bin\Debug\net7.0\autok.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\bin\Debug\net7.0\autok.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\autok.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\autok.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\autok.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\autok.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\autok.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\autok.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\refint\autok.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\autok.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\autok.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-lista\autok\obj\Debug\net7.0\ref\autok.dll

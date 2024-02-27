@@ -1,0 +1,8 @@
+C:\Users\buttymate\source\repos\BM-OOP\BM-OOP\bin\Debug\BM-OOP.exe.config
+C:\Users\buttymate\source\repos\BM-OOP\BM-OOP\bin\Debug\BM-OOP.exe
+C:\Users\buttymate\source\repos\BM-OOP\BM-OOP\bin\Debug\BM-OOP.pdb
+C:\Users\buttymate\source\repos\BM-OOP\BM-OOP\obj\Debug\BM-OOP.csproj.AssemblyReference.cache
+C:\Users\buttymate\source\repos\BM-OOP\BM-OOP\obj\Debug\BM-OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\buttymate\source\repos\BM-OOP\BM-OOP\obj\Debug\BM-OOP.csproj.CoreCompileInputs.cache
+C:\Users\buttymate\source\repos\BM-OOP\BM-OOP\obj\Debug\BM-OOP.exe
+C:\Users\buttymate\source\repos\BM-OOP\BM-OOP\obj\Debug\BM-OOP.pdb

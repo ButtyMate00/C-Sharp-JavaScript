@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\bin\Debug\net7.0\if-elseif-else.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\bin\Debug\net7.0\if-elseif-else.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\bin\Debug\net7.0\if-elseif-else.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\bin\Debug\net7.0\if-elseif-else.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\bin\Debug\net7.0\if-elseif-else.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\if-elseif-else.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\if-elseif-else.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\if-elseif-else.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\if-elseif-else.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\if-elseif-else.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\if-elseif-else.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\refint\if-elseif-else.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\if-elseif-else.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\if-elseif-else.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\if-elseif-else\obj\Debug\net7.0\ref\if-elseif-else.dll

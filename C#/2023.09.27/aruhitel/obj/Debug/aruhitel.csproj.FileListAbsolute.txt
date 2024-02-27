@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\aruhitel\bin\Debug\aruhitel.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\aruhitel\bin\Debug\aruhitel.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\aruhitel\bin\Debug\aruhitel.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\aruhitel\obj\Debug\aruhitel.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\aruhitel\obj\Debug\aruhitel.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\aruhitel\obj\Debug\aruhitel.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\aruhitel\obj\Debug\aruhitel.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.09.27\aruhitel\obj\Debug\aruhitel.pdb

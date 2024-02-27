@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\Fortnite\BM-Fortnite\bin\Debug\BM-Fortnite.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\Fortnite\BM-Fortnite\bin\Debug\BM-Fortnite.exe
+H:\Asztali alkalmazások fejlesztése\C#\Fortnite\BM-Fortnite\bin\Debug\BM-Fortnite.pdb
+H:\Asztali alkalmazások fejlesztése\C#\Fortnite\BM-Fortnite\obj\Debug\BM-Fortnite.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\Fortnite\BM-Fortnite\obj\Debug\BM-Fortnite.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\Fortnite\BM-Fortnite\obj\Debug\BM-Fortnite.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\Fortnite\BM-Fortnite\obj\Debug\BM-Fortnite.exe
+H:\Asztali alkalmazások fejlesztése\C#\Fortnite\BM-Fortnite\obj\Debug\BM-Fortnite.pdb

@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\bin\Debug\net7.0\osztas10.exe
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\bin\Debug\net7.0\osztas10.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\bin\Debug\net7.0\osztas10.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\bin\Debug\net7.0\osztas10.dll
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\bin\Debug\net7.0\osztas10.pdb
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\osztas10.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\osztas10.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\osztas10.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\osztas10.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\osztas10.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\osztas10.dll
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\refint\osztas10.dll
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\osztas10.pdb
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\osztas10.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\try_catch\osztas10\obj\Debug\net7.0\ref\osztas10.dll

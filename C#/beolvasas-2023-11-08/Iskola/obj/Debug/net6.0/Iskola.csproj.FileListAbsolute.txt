@@ -1,0 +1,15 @@
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\bin\Debug\net6.0\Iskola.exe
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\bin\Debug\net6.0\Iskola.deps.json
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\bin\Debug\net6.0\Iskola.runtimeconfig.json
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\bin\Debug\net6.0\Iskola.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\bin\Debug\net6.0\Iskola.pdb
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\Iskola.csproj.AssemblyReference.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\Iskola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\Iskola.AssemblyInfoInputs.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\Iskola.AssemblyInfo.cs
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\Iskola.csproj.CoreCompileInputs.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\Iskola.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\refint\Iskola.dll
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\Iskola.pdb
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\Iskola.genruntimeconfig.cache
+C:\Users\buttymate\source\repos\beolvasas-2023-11-08\Iskola\obj\Debug\net6.0\ref\Iskola.dll

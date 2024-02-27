@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\bin\Debug\net7.0\2D-tömb.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\bin\Debug\net7.0\2D-tömb.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\bin\Debug\net7.0\2D-tömb.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\bin\Debug\net7.0\2D-tömb.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\bin\Debug\net7.0\2D-tömb.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\2D-tömb.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\2D-tömb.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\2D-tömb.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\2D-tömb.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\2D-tömb.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\2D-tömb.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\refint\2D-tömb.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\2D-tömb.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\2D-tömb.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.25\2D-tömb\obj\Debug\net7.0\ref\2D-tömb.dll

@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\bin\Debug\net7.0\for_focicsapat_vizsgálat.exe
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\bin\Debug\net7.0\for_focicsapat_vizsgálat.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\bin\Debug\net7.0\for_focicsapat_vizsgálat.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\bin\Debug\net7.0\for_focicsapat_vizsgálat.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\bin\Debug\net7.0\for_focicsapat_vizsgálat.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\for_focicsapat_vizsgálat.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\for_focicsapat_vizsgálat.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\for_focicsapat_vizsgálat.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\for_focicsapat_vizsgálat.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\for_focicsapat_vizsgálat.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\for_focicsapat_vizsgálat.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\refint\for_focicsapat_vizsgálat.dll
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\for_focicsapat_vizsgálat.pdb
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\for_focicsapat_vizsgálat.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\2023.10.11\for_focicsapat\obj\Debug\net7.0\ref\for_focicsapat_vizsgálat.dll

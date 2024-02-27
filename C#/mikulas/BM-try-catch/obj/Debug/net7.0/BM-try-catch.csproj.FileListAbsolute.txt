@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\bin\Debug\net7.0\BM-try-catch.exe
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\bin\Debug\net7.0\BM-try-catch.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\bin\Debug\net7.0\BM-try-catch.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\bin\Debug\net7.0\BM-try-catch.dll
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\bin\Debug\net7.0\BM-try-catch.pdb
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\BM-try-catch.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\BM-try-catch.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\BM-try-catch.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\BM-try-catch.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\BM-try-catch.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\BM-try-catch.dll
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\refint\BM-try-catch.dll
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\BM-try-catch.pdb
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\BM-try-catch.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\mikulas\BM-try-catch\obj\Debug\net7.0\ref\BM-try-catch.dll

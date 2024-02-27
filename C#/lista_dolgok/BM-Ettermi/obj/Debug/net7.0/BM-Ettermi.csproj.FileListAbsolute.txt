@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\bin\Debug\net7.0\BM-Ettermi.exe
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\bin\Debug\net7.0\BM-Ettermi.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\bin\Debug\net7.0\BM-Ettermi.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\bin\Debug\net7.0\BM-Ettermi.dll
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\bin\Debug\net7.0\BM-Ettermi.pdb
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\BM-Ettermi.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\BM-Ettermi.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\BM-Ettermi.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\BM-Ettermi.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\BM-Ettermi.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\BM-Ettermi.dll
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\refint\BM-Ettermi.dll
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\BM-Ettermi.pdb
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\BM-Ettermi.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\lista_dolgok\BM-Ettermi\obj\Debug\net7.0\ref\BM-Ettermi.dll

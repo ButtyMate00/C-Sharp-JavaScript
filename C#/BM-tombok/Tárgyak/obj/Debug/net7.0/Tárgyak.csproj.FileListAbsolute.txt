@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\bin\Debug\net7.0\Tárgyak.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\bin\Debug\net7.0\Tárgyak.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\bin\Debug\net7.0\Tárgyak.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\bin\Debug\net7.0\Tárgyak.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\bin\Debug\net7.0\Tárgyak.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\Tárgyak.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\Tárgyak.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\Tárgyak.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\Tárgyak.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\Tárgyak.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\Tárgyak.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\refint\Tárgyak.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\Tárgyak.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\Tárgyak.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-tombok\Tárgyak\obj\Debug\net7.0\ref\Tárgyak.dll

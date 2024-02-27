@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\bin\Debug\net7.0\BM-halmaz.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\bin\Debug\net7.0\BM-halmaz.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\bin\Debug\net7.0\BM-halmaz.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\bin\Debug\net7.0\BM-halmaz.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\bin\Debug\net7.0\BM-halmaz.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\BM-halmaz.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\BM-halmaz.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\BM-halmaz.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\BM-halmaz.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\BM-halmaz.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\BM-halmaz.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\refint\BM-halmaz.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\BM-halmaz.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\BM-halmaz.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-halmaz\BM-halmaz\obj\Debug\net7.0\ref\BM-halmaz.dll

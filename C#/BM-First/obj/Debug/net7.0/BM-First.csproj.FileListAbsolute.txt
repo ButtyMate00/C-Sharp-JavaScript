@@ -1,0 +1,15 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\bin\Debug\net7.0\BM-First.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\bin\Debug\net7.0\BM-First.deps.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\bin\Debug\net7.0\BM-First.runtimeconfig.json
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\bin\Debug\net7.0\BM-First.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\bin\Debug\net7.0\BM-First.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\BM-First.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\BM-First.GeneratedMSBuildEditorConfig.editorconfig
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\BM-First.AssemblyInfoInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\BM-First.AssemblyInfo.cs
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\BM-First.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\BM-First.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\refint\BM-First.dll
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\BM-First.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\BM-First.genruntimeconfig.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-First\obj\Debug\net7.0\ref\BM-First.dll
