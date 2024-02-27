@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let betuk = new Set(["a","b","c","d"])
+        console.log(betuk)
+        betuk.add("e")
+        let a = "f";
+        betuk.add(a)
+        console.log(betuk)
+        betuk.add("e")
+        betuk.add("e")
+        console.log(betuk)
+        console.log(betuk.size)
+        betuk.forEach(function (ertek) {
+            console.log(ertek)
+        })
+        for(let elem of betuk.values()){
+            console.log(elem)
+        }
+        console.log(`${betuk}`)
+        console.log(`${betuk.values()}`)
+        if(betuk.has("b")){
+            console.log("Ez az elem a helmazban van!");
+        }
+
+        let szamok = new Set();
+        while(szamok.size != 5){
+            szamok.add(Math.floor(Math.random()*90)+1)
+        }
+        console.log(Array.from(szamok).sort(function(a, b){
+            return a - b;
+        }))
+        // tolttsunk fel kethalmaz 20db 1-100 kozotti veletlen szammal majd metszet halmez unio
+        let szamok1 = new Set();
+        while(szamok1.size != 20){
+            szamok1.add(Math.floor(Math.random()*100)+1)
+        }
+        let szamok2 = new Set();
+        while(szamok2.size != 20){
+            szamok2.add(Math.floor(Math.random()*100)+1)
+        }
+
+        let unio = new Set([...szamok1, ...szamok2])
+        console.log(szamok1)
+        console.log(szamok2)
+        console.log(unio)
+
+        let metszet = new Set([...szamok1].filter(x => szamok2.has(x)))
+        console.log(metszet)
+
+        let kulonbseg = new Set([...szamok1].filter(x => !szamok2.has(x)))
+        console.log(kulonbseg)
+
+
+        let aruk = new Map([
+            ['alma', 300],
+            ['paradicso', 500],
+            ['répa', 200]
+        ]);
+
+        let aruk1 = new Map
+        aruk1.set("alma", 300)
+        aruk1.set("paradicsom", 500)
+        aruk1.set("répa", 200)
+        aruk1.set("répa", 400)
+        console.log(aruk1)
+        console.log(aruk1.get("alma"))
+        console.log(aruk1.size)
+        aruk1.delete("paradicsom")
+        console.log(aruk1)
+        aruk1.clear()
+        console.log(aruk1)
+        console.log(aruk.has("alma"))
+
+        aruk.forEach(function(value, key){
+            console.log(key + " = " +value)
+        })
+
+        for(aru of aruk.entries()){
+            console.log(aru)
+        }
+
+        for(aru of aruk.keys()){
+            console.log(aru)
+        }
+
+        //hozzon letre egy mapat ahol a kulcsok az ev honapjai az értekek pedig a napok száma a honapban 
+        let honapok = new Map
+        honapok.set('Január', 31)
+        honapok.set('Február', 28)
+        honapok.set('Március', 31)
+        honapok.set('Április', 30)
+        honapok.set('Május', 31)
+        honapok.set('Június', 30)
+        honapok.set('Július', 31)
+        honapok.set('Agusztus', 31)
+        honapok.set('Szeptember', 30)
+        honapok.set('Október', 31)
+        honapok.set('Novemer', 30)
+        honapok.set('December', 31)
+        let db1 = 0;
+        honapok.forEach(function(value, key){
+            if(value != 30 && value != 28){
+                db1++;
+                console.log(value + " = " + key) 
+            }
+        })
+        console.log(db1)
+
+        honapok.forEach(function(value, key){
+            if (value == 30) {console.log(key)}
+        })
+
+        let tomb = Array.from({length: 100}, () => Math.floor(Math.random() * 101)-50);
+        console.log(tomb)
+        console.log(` A: ${Math.max(...tomb)}`)
+
+
+   </script>
+</body>
+</html>
