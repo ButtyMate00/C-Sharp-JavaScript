@@ -1,0 +1,57 @@
+#cube {
+    position: relative;
+    margin: 100px auto;
+    height: 100px;
+    width: 100px;
+    animation: 4s rotateforever infinite linear;
+    transform-style: preserve-3d;
+}
+
+.face {
+    position: absolute;
+    height: 78px;
+    width: 78px;
+    padding: 10px;
+    border: black 2px solid;
+}
+
+
+
+@keyframes rotateforever {
+    to {
+        transform: rotateY(360deg);
+    }
+}
+.cube {
+    background-color: navajowhite;
+}
+
+.one {
+    transform: rotateX(-54.7356deg) rotateY(45deg) translateZ(50px);
+    background-color: rgba(245, 15, 51, 0.76);
+}
+
+.two {
+    transform: rotateX(-54.7356deg) rotateY(135deg) translateZ(50px);
+    background-color: rgba(15, 17, 245, 0.76);
+}
+
+.three {
+    transform: rotateX(-54.7356deg) rotateY(225deg) translateZ(50px);
+    background-color: rgba(15, 245, 75, 0.76);
+}
+
+.four {
+    transform: rotateX(-54.7356deg) rotateY(315deg) translateZ(50px);
+    background-color: rgba(245, 123, 15, 0.76);
+}
+
+.five {
+    transform: rotateX(35.2644deg) rotateZ(-45deg) translateZ(50px);
+    background-color: rgba(126, 202, 216, 0.76);
+}
+
+.six {
+    transform: rotateX(35.2644deg) rotateY(180deg) rotateZ(-45deg) translateZ(50px);
+    background-color: rgba(133, 216, 126, 0.76);
+}

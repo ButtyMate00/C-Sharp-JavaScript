@@ -1,0 +1,92 @@
+#asd{
+    width: 400px;
+    height: 200px;
+    /* background-image: linear-gradient(white, black); */
+    /* background-image: linear-gradient(to left, yellow, red); */
+    /* background-image: linear-gradient( 75deg, yellow, red); */
+    /* background-image: linear-gradient(to bottom, green, yellow); */
+    /* background-image: radial-gradient(yellow, green); */
+    /* background-image: radial-gradient(circle at center , yellow 20%, green 80%); */
+    /* background-image: radial-gradient(closest-corner at 20% 30%, yellow, green); */
+    /* background-image: radial-gradient(yellow 100px, green 200px); */
+    /* background-image: radial-gradient(red, yellow, green); */
+    /* background-image: radial-gradient(closest-side at 40px 60px,red, yellow, green); */
+    /* background-image: radial-gradient(farthest-side at left bottom , red , yellow 50px, green); */
+    /* background-image: repeating-linear-gradient(yellow, blue 40px, red 80px); */
+    /* background-image: repeating-radial-gradient(yellow, blue 40px, red 80px); */
+    background-image: repeating-radial-gradient(circle closest-side at -10px -10px,yellow, blue , red 300%, yellow, green 300%);
+}
+ul li{
+    list-style-image: radial-gradient(yellow, red);
+}
+button{
+    width: 155px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Corsiva, serif;
+    color: yellow;
+    font-weight: bold;
+    background-color: green;
+    border-radius: 20px ;
+    font-size: 24px;
+}
+
+#gomb1{
+    background-image: linear-gradient(to top, #060, #0f0 );
+}
+
+#gomb2{
+    background-image: linear-gradient(#060, #0f0, #060);
+    border-width: 0px;
+}
+
+/* #test{
+    width: 200px;
+    height: 250px;
+    background-color: #cff;
+    background-size: 100px 100px;
+    background-position:  0 0, 50px 50px;
+    background-image: linear-gradient(45deg, aqua 25%, transparent 25%, transparent 75%, aqua 75%, aqua), linear-gradient(45deg, aqua 25%, transparent 25%, transparent 75%, aqua 75%, aqua);
+} */
+
+/* #test{
+    width: 500px;
+    height: 250px;
+    background-color: #cf9;
+    background-size:  83px 83px;
+    background-image: linear-gradient(45deg, #cff 25%, transparent 25%, transparent 75%, #cff 75%, #cff), linear-gradient(-45deg, #cff 25%, transparent 25%, transparent 75%, #cff 75%, #cff);
+} */
+
+/* #test{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    background-size: 50px 50px;
+    background-image: linear-gradient(180deg, rgba(0%, 0%, 100%, .5) 50%, transparent 50%), linear-gradient(90deg, rgba(0%, 0%, 75%, .5) 50%, transparent 50%) ;
+} */
+
+#test{
+    width: 500px;
+    height: 250px;
+    background-color: red;
+    background-size: 0 0, 60px 60px;
+    background-image: radial-gradient(white 25%, transparent 25%), radial-gradient(white 25%, transparent 25%) ;
+}
+
+body{
+    background-image: radial-gradient(white 7%, transparent 7%), radial-gradient(white 4%, transparent 4%);
+    background-color: aqua;
+    background-size: 100px 100px, 100px 100px;
+    background-position: 0 0, 50px 50px;
+    animation: havazas 60s linear infinite;
+}
+
+@keyframes havazas {
+    0%{
+        background-position: 0 0, 50px 50px;
+    }
+    100%{
+        background-position: 300px 1500px, 350px 1550px;
+    }
+}
