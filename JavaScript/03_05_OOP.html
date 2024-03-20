@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+/*
+            let person = {
+            firstname: "Csaba",
+            lastname: "Faragó",
+            age: 43,
+
+            fullName: function(){
+                return this.firstname + " " + this.lastname;
+            }
+        }
+
+        
+//        person.fullName: function(){
+//                return this.firstname + " " + this.lastname;
+//            }
+
+        for (property in person) {
+            console.log(property + ":" + person[property])
+        }
+
+        person.country = "Hungary";
+        
+//       let person = new Object();
+//       person.firstname = "Csaba";
+//       person.lastname = "Faragó";
+//       person.age = 43
+        console.log(person.firstname)
+        console.log(person["lastname"])
+        let ageStr = "age";
+        console.log(person[ageStr])
+        console.log(person.fullName())
+
+        console.log(Object.keys(person))
+        console.log(Object.values(person))
+        console.log(Object.entries(person))
+
+        let personn = {
+            _firstname: "",
+            _lastname: "",
+            _age: 0,
+            
+            get firstname(){
+                return this.firstname;
+            },
+            set firstName(firstName){
+                this._firstname = firstName;
+            },
+            get lastName(){
+                return this.lastName;
+            },
+            set lastName(lastName){
+                this._lastname = lastName;
+            },
+            get age(){
+                return this.age;
+            },
+            set age(age){
+                this._age = age;
+            }
+
+        }
+*/
+/*4        String.prototype.print = function() {
+            console.log(this.valueOf());
+        }
+
+        let s = "Alma";
+        s.print();
+
+        function Tanulo(nev, nem) {
+            this.nev = nev;
+            this.nem = nem;    
+        }        
+
+        Tanulo.kor = 15;
+        Tanulo.prototype.kor = 15;
+
+        let peti = new Tanulo();
+        console.log(peti.kor);
+
+        function Dolgozo(nev, telepules, fizetes) {
+            this.nev = nev;
+            this.telepules = telepules;
+            this.fizetes = fizetes;    
+        }        
+
+        Dolgozo.prototype.munka = function(){
+            console.log("munka")
+        }
+
+
+        let janos = new Dolgozo('Nagy János', 'Szolnok', '845213')
+        console.log(janos.nev);
+        janos.munka();
+  
+        
+
+        let prototype = {
+            name:'Prototype',
+            sayName: function(){
+                console.log("Nevem: " + this.name)
+            }
+        }
+
+        prototype.sayName();
+      //  let objektum = Object(prototype)
+      //  objektum.name = 'Objektum'
+      //  objektum.sayName();
+
+        let objektum = Object.create(prototype, {
+            name: {
+                value: 'objektum',
+
+                enumerable: true,
+                writable: true,
+                configurable: true
+
+            }
+        })
+
+
+        objektum.sayName();
+
+        function Person(firstname, lastname, age){
+            this.firstname = firstname;
+            this.lastname = lastname;
+            this.age = age;
+            this.fullName = function() {
+                return this.firstname + " " + this.lastname;
+            }
+        }
+
+        let p = new Person("Csaba", "Faragó", 43)
+        console.log(p.fullName())
+*/       
+
+        class Person{
+            constructor(firstName, lastName){
+                this.firstName = firstName;
+                this.lastName = lastName;
+            }
+            fullName(){
+                return this.firstName + " " + this.lastName
+            }
+        }
+
+        class Hunperson extends Person{
+            constructor(firstName, lastName){
+                super(firstName, lastName)
+            }
+            fullName(){
+                return this.lastName + " " + this.firstName
+            }
+        }
+
+        let p1 = new Person("Jhon", "Smith")
+        let p2 = new Hunperson("Csaba", "Faragó")
+        console.log(p1.fullName()) 
+        console.log(p2.fullName()) 
+
+        console.log(Object.keys(p1));
+        console.log(Object.getOwnPropertyNames(p1));
+        Object.preventExtensions(p1);
+        Object.isExtensible(p1)
+        Object.seal(p1);
+        Object.isSealed(p1)
+        Object.freeze(p1)
+        Object.isFrozen(p1)
+
+        class Car{
+            constructor(modell, évjárat, szín){
+                this.modell = modell;
+                this.évjárat = évjárat;
+                this.szín = szín;
+        }
+        életKor(){
+                return 2024 - this.évjárat
+            }
+
+        get Modell(){
+            return this.modell;
+        };
+        set Modell(modell){
+            this._modell = modell;
+        };
+        get Évjárat(){
+            return this.évjárat;
+        };
+        set Évjárat(évjárat){
+            this._évjárat = évjárat;
+        };
+        get Szín(){
+            return this.szín;
+        };
+        set Szín(szín){
+            this._szín = szín;
+        }  
+        }
+        class NewCar extends Car{
+            constructor(modell, évjárat, szín, fogyasztás, üzemanyagtank){
+                super(modell, évjárat, szín)
+                this.fogyasztás = fogyasztás;
+                this.üzemanyagtank = üzemanyagtank;
+            }
+        }
+
+        let car1 = new Car("Ford", 1999, "Kék", 7, 50)
+        let car2 = new Car("Audi", 2011, "Fekete", 6, 40)
+
+        console.log(car2.életKor())
+
+        class Pc{
+            constructor(Memória = 1024, OnOff = false){
+                this.Memória = Memória;
+                this.OnOff = OnOff;
+
+
+        }
+       }
+       let pc1 = new Pc;
+       console.log(pc1.pc) 
+
+    </script>
+</body>
+</html>

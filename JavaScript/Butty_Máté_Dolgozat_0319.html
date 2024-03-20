@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        class Torta {
+    constructor(emelet = 1, krem = false) {
+        this._emelet = emelet;
+        this._krem = krem;
+    }
+    ujEmelet() {
+        this._emelet++;
+        return this._emelet
+    }
+    kremmelMegken() {
+        if (this._krem == false) {return this._krem = true}
+        else  return "A tortát már megkented krémmel"
+    }
+    mennyiKaloria() {
+        let cal;
+        cal = this._emelet * 1000;
+        if (this._krem == true) {cal = cal *2}
+        return cal
+    }
+    Adat() {
+        return console.log("A torta emelete:", this._emelet, "A tortát megvan kennve:", this._krem);
+    }
+    }
+    const torta1 = new Torta();
+    console.log("A tortát sikerült kenni krémmel:", torta1.kremmelMegken());
+    console.log("A tortát sikerült kenni krémmel:", torta1.kremmelMegken());
+    console.log("A torta kalória száma:", torta1.mennyiKaloria());
+    const torta2 = new Torta(2, false)
+    console.log("A torta emelete:", torta2.ujEmelet());
+    console.log("A torta emelete:", torta2.ujEmelet());
+    console.log("A torta kalória száma:", torta2.mennyiKaloria());
+    console.log("A tortát sikerült kenni krémmel:", torta2.kremmelMegken());
+    console.log("A tortát sikerült kenni krémmel:", torta2.kremmelMegken());
+    console.log("A torta kalória száma:", torta2.mennyiKaloria());
+    console.log(torta2.Adat())
+
+    </script>
+</body>
+</html>

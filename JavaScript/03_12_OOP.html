@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+class Harcos {
+    constructor(nev, eletero, harci_ero) {
+        this._nev = nev;
+        this._eletero = eletero;
+        this._harci_ero = harci_ero;
+    }
+
+    get nev() {
+        return this._nev;
+    }
+
+    get eletero() {
+        return this._eletero;
+    }
+
+    get harci_ero() {
+        return this._harci_ero;
+    }
+
+    set nev(nev) {
+        this._nev = nev;
+    }
+
+    set eletero(eletero) {
+        this._eletero = eletero;
+    }
+
+    set harci_ero(harci_ero) {
+        this._harci_ero = harci_ero;
+    }
+
+    harcol(masikHarcos) {
+        masikHarcos.eletero -= this._harci_ero;
+        this._eletero -= masikHarcos.harci_ero;
+        if (this._eletero <= 0 || masikHarcos.eletero <= 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+}
+
+// Példa használat:
+const harcos1 = new Harcos("Harcos1", 100, 20);
+const harcos2 = new Harcos("Harcos2", 120, 15);
+
+while (!harcos1.harcol(harcos2)) {
+    // Harcoljanak, amíg valamelyikük el nem veszti a harcot.
+}
+
+if (harcos1.eletero <= 0) {
+    console.log(`${harcos1.nev} vesztett!`);
+} else {
+    console.log(`${harcos2.nev} vesztett!`);
+}
+
+
+
+class Haromszog {
+    constructor(pontA, pontB, pontC) {
+        this._pontA = pontA;
+        this._pontB = pontB;
+        this._pontC = pontC;
+    }
+
+    // Segédfüggvény a két pont távolságának kiszámításához
+    _tavolsag(pont1, pont2) {
+        const dx = pont1.x - pont2.x;
+        const dy = pont1.y - pont2.y;
+        return Math.sqrt(dx * dx + dy * dy);
+    }
+
+    // Ellenőrzi, hogy a háromszög egyenlőszárú-e
+    egyenloszaru() {
+        const a = this._tavolsag(this._pontA, this._pontB);
+        const b = this._tavolsag(this._pontB, this._pontC);
+        const c = this._tavolsag(this._pontC, this._pontA);
+        return a === b || b === c || c === a;
+    }
+
+    // Ellenőrzi, hogy a háromszög szabályos-e (mindhárom oldal egyenlő hosszú)
+    szabalyos() {
+        const a = this._tavolsag(this._pontA, this._pontB);
+        const b = this._tavolsag(this._pontB, this._pontC);
+        const c = this._tavolsag(this._pontC, this._pontA);
+        return a === b && b === c;
+    }
+
+    // Számítja a háromszög kerületét
+    kerulet() {
+        const a = this._tavolsag(this._pontA, this._pontB);
+        const b = this._tavolsag(this._pontB, this._pontC);
+        const c = this._tavolsag(this._pontC, this._pontA);
+        return a + b + c;
+    }
+
+    // Számítja a háromszög területét Heron képlet alapján
+    terulet() {
+        const a = this._tavolsag(this._pontA, this._pontB);
+        const b = this._tavolsag(this._pontB, this._pontC);
+        const c = this._tavolsag(this._pontC, this._pontA);
+        const s = (a + b + c) / 2;
+        return Math.sqrt(s * (s - a) * (s - b) * (s - c));
+    }
+}
+
+// Példa használat:
+const pont1 = { x: 0, y: 0 };
+const pont2 = { x: 3, y: 0 };
+const pont3 = { x: 1.5, y: 2.598 }; // Egyenlő oldalú háromszög pontjai
+
+const haromszog = new Haromszog(pont1, pont2, pont3);
+
+console.log("Egyenlőszárú:", haromszog.egyenloszaru());
+console.log("Szabályos:", haromszog.szabalyos());
+console.log("Kerület:", haromszog.kerulet());
+console.log("Terület:", haromszog.terulet());
+
+class Auto {
+    constructor(nev, fogyasztas, tankMeret) {
+        this.nev = nev;
+        this.fogyasztas = fogyasztas; // liter/km
+        this.tankMeret = tankMeret; // liter
+        this.benzinMennyiseg = tankMeret; // kezdetben a tank teljes
+        this.soforPenz = 1000; // kezdetben 1000 pénz
+    }
+
+    tankol(benzinMennyiseg) {
+        this.benzinMennyiseg += benzinMennyiseg;
+    }
+
+    megtettTavolsag() {
+        return this.tankMeret - this.benzinMennyiseg / this.fogyasztas;
+    }
+
+    utraIndul(tavolsag) {
+        if (this.megtettTavolsag() >= tavolsag) {
+            console.log(`${this.nev} elindult a ${tavolsag} km-es útra.`);
+            this.benzinMennyiseg -= tavolsag * this.fogyasztas;
+        } else {
+            console.log(`${this.nev} nem tud eljutni a ${tavolsag} km-es útra.`);
+            if (this.soforPenz >= 10) {
+                console.log(`${this.nev} tankolni fog.`);
+                const tankolasKoltseg = (tavolsag - this.megtettTavolsag()) * this.fogyasztas * 10;
+                if (tankolasKoltseg <= this.soforPenz) {
+                    this.benzinMennyiseg = this.tankMeret;
+                    this.soforPenz -= tankolasKoltseg;
+                } else {
+                    console.log(`${this.nev} nem tud tankolni, nincs elég pénze.`);
+                    this.alljonLe();
+                }
+            } else {
+                console.log(`${this.nev} nem tud tankolni, nincs elég pénze.`);
+                this.alljonLe();
+            }
+        }
+    }
+
+    alljonLe() {
+        console.log(`${this.nev} leállt.`);
+    }
+}
+
+class Benzinkut {
+    constructor(benzinMennyiseg, benzinAr) {
+        this.benzinMennyiseg = benzinMennyiseg;
+        this.benzinAr = benzinAr;
+        this.kassza = 0;
+    }
+
+    tankol(auto, liter) {
+        if (this.benzinMennyiseg >= liter) {
+            const koltseg = liter * this.benzinAr;
+            if (auto.soforPenz >= koltseg) {
+                auto.tankol(liter);
+                this.benzinMennyiseg -= liter;
+                this.kassza += koltseg;
+                console.log(`${auto.nev} tankolt ${liter} liter benzint.`);
+            } else {
+                console.log(`${auto.nev} nem tud tankolni, nincs elég pénze.`);
+            }
+        } else {
+            console.log(`Nincs elég benzin a kúton.`);
+        }
+    }
+}
+
+// Példa használat:
+const auto1 = new Auto("Autó 1", 5, 50);
+const auto2 = new Auto("Autó 2", 6, 60);
+const auto3 = new Auto("Autó 3", 7, 70);
+const auto4 = new Auto("Autó 4", 8, 80);
+const auto5 = new Auto("Autó 5", 9, 90);
+
+const benzinkut = new Benzinkut(500, 2.5); // 500 liter benzin, 2.5 pénz/liter ár
+
+auto1.utraIndul(200);
+auto2.utraIndul(150);
+auto3.utraIndul(100);
+auto4.utraIndul(300);
+auto5.utraIndul(250);
+
+    </script>
+</body>
+</html>
