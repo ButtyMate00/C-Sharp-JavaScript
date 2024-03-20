@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM_OOP_öröklődés\BM_OOP_öröklődés\bin\Debug\BM_OOP_öröklődés.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\BM_OOP_öröklődés\BM_OOP_öröklődés\bin\Debug\BM_OOP_öröklődés.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM_OOP_öröklődés\BM_OOP_öröklődés\bin\Debug\BM_OOP_öröklődés.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM_OOP_öröklődés\BM_OOP_öröklődés\obj\Debug\BM_OOP_öröklődés.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM_OOP_öröklődés\BM_OOP_öröklődés\obj\Debug\BM_OOP_öröklődés.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM_OOP_öröklődés\BM_OOP_öröklődés\obj\Debug\BM_OOP_öröklődés.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM_OOP_öröklődés\BM_OOP_öröklődés\obj\Debug\BM_OOP_öröklődés.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM_OOP_öröklődés\BM_OOP_öröklődés\obj\Debug\BM_OOP_öröklődés.pdb

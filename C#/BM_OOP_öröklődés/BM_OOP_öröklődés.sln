@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BM_OOP_öröklődés", "BM_OOP_öröklődés\BM_OOP_öröklődés.csproj", "{B324CDBA-262C-418C-8C80-612F41D82DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B324CDBA-262C-418C-8C80-612F41D82DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B324CDBA-262C-418C-8C80-612F41D82DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B324CDBA-262C-418C-8C80-612F41D82DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B324CDBA-262C-418C-8C80-612F41D82DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8347E66-A772-4033-B708-B42C7856487D}
+	EndGlobalSection
+EndGlobal

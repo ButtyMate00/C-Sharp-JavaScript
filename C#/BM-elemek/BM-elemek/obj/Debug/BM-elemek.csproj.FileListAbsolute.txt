@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-elemek\BM-elemek\bin\Debug\BM-elemek.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\BM-elemek\BM-elemek\bin\Debug\BM-elemek.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-elemek\BM-elemek\bin\Debug\BM-elemek.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-elemek\BM-elemek\obj\Debug\BM-elemek.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-elemek\BM-elemek\obj\Debug\BM-elemek.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-elemek\BM-elemek\obj\Debug\BM-elemek.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-elemek\BM-elemek\obj\Debug\BM-elemek.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-elemek\BM-elemek\obj\Debug\BM-elemek.pdb
