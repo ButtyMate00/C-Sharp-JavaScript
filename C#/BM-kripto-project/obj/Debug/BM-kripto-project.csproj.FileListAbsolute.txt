@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-kripto-project\BM-kripto-project\bin\Debug\BM-kripto-project.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\BM-kripto-project\BM-kripto-project\bin\Debug\BM-kripto-project.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-kripto-project\BM-kripto-project\bin\Debug\BM-kripto-project.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-kripto-project\BM-kripto-project\obj\Debug\BM-kripto-project.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kripto-project\BM-kripto-project\obj\Debug\BM-kripto-project.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kripto-project\BM-kripto-project\obj\Debug\BM-kripto-project.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-kripto-project\BM-kripto-project\obj\Debug\BM-kripto-project.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-kripto-project\BM-kripto-project\obj\Debug\BM-kripto-project.pdb
