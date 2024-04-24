@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-etterem\BM-etterem\obj\Debug\BM-etterem.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-etterem\BM-etterem\obj\Debug\BM-etterem.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-etterem\BM-etterem\obj\Debug\BM-etterem.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-etterem\BM-etterem\bin\Debug\BM-etterem.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\BM-etterem\BM-etterem\bin\Debug\BM-etterem.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-etterem\BM-etterem\bin\Debug\BM-etterem.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-etterem\BM-etterem\obj\Debug\BM-etterem.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-etterem\BM-etterem\obj\Debug\BM-etterem.pdb
