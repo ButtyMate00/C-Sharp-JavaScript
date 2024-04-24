@@ -1,0 +1,8 @@
+H:\Asztali alkalmazások fejlesztése\C#\BM-egyéni-projekt\BM-egyéni-projekt\bin\Debug\BM-egyéni-projekt.exe.config
+H:\Asztali alkalmazások fejlesztése\C#\BM-egyéni-projekt\BM-egyéni-projekt\bin\Debug\BM-egyéni-projekt.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-egyéni-projekt\BM-egyéni-projekt\bin\Debug\BM-egyéni-projekt.pdb
+H:\Asztali alkalmazások fejlesztése\C#\BM-egyéni-projekt\BM-egyéni-projekt\obj\Debug\BM-egyéni-projekt.csproj.AssemblyReference.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-egyéni-projekt\BM-egyéni-projekt\obj\Debug\BM-egyéni-projekt.csproj.SuggestedBindingRedirects.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-egyéni-projekt\BM-egyéni-projekt\obj\Debug\BM-egyéni-projekt.csproj.CoreCompileInputs.cache
+H:\Asztali alkalmazások fejlesztése\C#\BM-egyéni-projekt\BM-egyéni-projekt\obj\Debug\BM-egyéni-projekt.exe
+H:\Asztali alkalmazások fejlesztése\C#\BM-egyéni-projekt\BM-egyéni-projekt\obj\Debug\BM-egyéni-projekt.pdb
